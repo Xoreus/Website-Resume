@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>xoreus.github.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -242,6 +242,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>xoreus.github.io/tags/confluence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>xoreus.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>xoreus.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     

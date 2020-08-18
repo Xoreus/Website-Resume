@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/contributions/deploy-triggers/</loc>
+    <loc>xoreus.github.io/projects/contributions/examples/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url>
   
@@ -32,13 +32,13 @@
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/contributions/shields-docker/</loc>
+    <loc>xoreus.github.io/projects/contributions/examples/shields-docker/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/contributions/schema-org/</loc>
+    <loc>xoreus.github.io/projects/contributions/examples/schema-org/</loc>
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -95,7 +95,7 @@
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/creations/bosh-agents/</loc>
+    <loc>xoreus.github.io/projects/creations/examples/bosh-agents/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
@@ -180,7 +180,7 @@
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/creations/marketplace/</loc>
+    <loc>xoreus.github.io/projects/creations/examples/marketplace/</loc>
   </url>
   
   <url>
@@ -200,11 +200,19 @@
   </url>
   
   <url>
+    <loc>xoreus.github.io/projects/creations/cp-classifier/</loc>
+  </url>
+  
+  <url>
     <loc>xoreus.github.io/tags/confluence/</loc>
   </url>
   
   <url>
-    <loc>xoreus.github.io/projects/creations/docker-marketplace/</loc>
+    <loc>xoreus.github.io/tags/deep-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>xoreus.github.io/projects/creations/examples/docker-marketplace/</loc>
   </url>
   
   <url>
