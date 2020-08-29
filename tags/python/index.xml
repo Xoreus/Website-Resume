@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Edward Leung</title>
-    <link>xoreus.github.io/tags/python/</link>
+    <link>https://xoreus.github.io/tags/python/</link>
     <description>Recent content in Python on Edward Leung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="xoreus.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xoreus.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coke-Pepsi Classification Model</title>
-      <link>xoreus.github.io/projects/creations/cp_classifier/</link>
+      <link>https://xoreus.github.io/projects/creations/cp_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/cp_classifier/</guid>
+      <guid>https://xoreus.github.io/projects/creations/cp_classifier/</guid>
       <description>A deep learning classification model that differenciates between Pepsi and Coke. Using a pre-trained convolution neural network model, ResNet-34, to create a classifier used to determine between Coca-Cola and Pepsi related images taken from Google Images. Manually cleaning and transforming images to create a deeper and richer dataset to improve classification. Trained the classifier with varying learning rates to minimizing errors in the validation set whilst maximizing the accuracy of the model, resulting in an accuracy in the testing set of 97.</description>
     </item>
     
     <item>
       <title>IBM Quantum Challenge</title>
-      <link>xoreus.github.io/projects/creations/quantum_challenge/</link>
+      <link>https://xoreus.github.io/projects/creations/quantum_challenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/quantum_challenge/</guid>
+      <guid>https://xoreus.github.io/projects/creations/quantum_challenge/</guid>
       <description>Manipulating Qubits into Bell and GHZ states and interpreting its results on a real noisy quantum computer. A simulation of the BB84 protocol, an application of a Quantum computer to encrypt and decrypt messages between two parties. Approximated a unitary using only U3 and CX gates with a focus on cost and accuracy resulting in a total cost of 310. Solution of unitary resulted in 375th place out of the total 1745 participants.</description>
     </item>
     
     <item>
       <title>Titanic Survival Predictor</title>
-      <link>xoreus.github.io/projects/creations/titanic/</link>
+      <link>https://xoreus.github.io/projects/creations/titanic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/titanic/</guid>
+      <guid>https://xoreus.github.io/projects/creations/titanic/</guid>
       <description>Applying factors such as age, sex, and fare type of passengers who had survived the disaster to train a logistic regression model using the scikit-learn library. Using the trained model to predict if a passenger would survive based on the same factors; scored a 77.5% accuracy rating based on Kaggle&amp;rsquo;s scoring system.</description>
     </item>
     

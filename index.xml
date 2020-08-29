@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Edward Leung</title>
-    <link>xoreus.github.io/</link>
+    <link>https://xoreus.github.io/</link>
     <description>Recent content in Resume on Edward Leung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
-	<atom:link href="xoreus.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xoreus.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atlassian Deployment Triggers</title>
-      <link>xoreus.github.io/projects/contributions/examples/deploy-triggers/</link>
+      <link>https://xoreus.github.io/projects/contributions/examples/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/contributions/examples/deploy-triggers/</guid>
+      <guid>https://xoreus.github.io/projects/contributions/examples/deploy-triggers/</guid>
       <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
     </item>
     
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>xoreus.github.io/publications/alldaydevops/</link>
+      <link>https://xoreus.github.io/publications/alldaydevops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/publications/alldaydevops/</guid>
+      <guid>https://xoreus.github.io/publications/alldaydevops/</guid>
       <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
     </item>
     
     <item>
       <title>Added Docker Build Status Badge to shields.io</title>
-      <link>xoreus.github.io/projects/contributions/examples/shields-docker/</link>
+      <link>https://xoreus.github.io/projects/contributions/examples/shields-docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/contributions/examples/shields-docker/</guid>
+      <guid>https://xoreus.github.io/projects/contributions/examples/shields-docker/</guid>
       <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
     </item>
     
     <item>
       <title>Schema.org Structured Data documentation fixes</title>
-      <link>xoreus.github.io/projects/contributions/examples/schema-org/</link>
+      <link>https://xoreus.github.io/projects/contributions/examples/schema-org/</link>
       <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/contributions/examples/schema-org/</guid>
+      <guid>https://xoreus.github.io/projects/contributions/examples/schema-org/</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
     </item>
     
     <item>
       <title>Forcing Visits to use SSL</title>
-      <link>xoreus.github.io/blog/force-ssl/</link>
+      <link>https://xoreus.github.io/blog/force-ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>xoreus.github.io/blog/force-ssl/</guid>
+      <guid>https://xoreus.github.io/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
  First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
     </item>
     
     <item>
       <title>Coke-Pepsi Classification Model</title>
-      <link>xoreus.github.io/projects/creations/cp_classifier/</link>
+      <link>https://xoreus.github.io/projects/creations/cp_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/cp_classifier/</guid>
+      <guid>https://xoreus.github.io/projects/creations/cp_classifier/</guid>
       <description>A deep learning classification model that differenciates between Pepsi and Coke. Using a pre-trained convolution neural network model, ResNet-34, to create a classifier used to determine between Coca-Cola and Pepsi related images taken from Google Images. Manually cleaning and transforming images to create a deeper and richer dataset to improve classification. Trained the classifier with varying learning rates to minimizing errors in the validation set whilst maximizing the accuracy of the model, resulting in an accuracy in the testing set of 97.</description>
     </item>
     
     <item>
       <title>IBM Quantum Challenge</title>
-      <link>xoreus.github.io/projects/creations/quantum_challenge/</link>
+      <link>https://xoreus.github.io/projects/creations/quantum_challenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/quantum_challenge/</guid>
+      <guid>https://xoreus.github.io/projects/creations/quantum_challenge/</guid>
       <description>Manipulating Qubits into Bell and GHZ states and interpreting its results on a real noisy quantum computer. A simulation of the BB84 protocol, an application of a Quantum computer to encrypt and decrypt messages between two parties. Approximated a unitary using only U3 and CX gates with a focus on cost and accuracy resulting in a total cost of 310. Solution of unitary resulted in 375th place out of the total 1745 participants.</description>
     </item>
     
     <item>
       <title>Motion Activated Soap Dispenser</title>
-      <link>xoreus.github.io/projects/creations/soap_dispenser/</link>
+      <link>https://xoreus.github.io/projects/creations/soap_dispenser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/soap_dispenser/</guid>
+      <guid>https://xoreus.github.io/projects/creations/soap_dispenser/</guid>
       <description>Developed a C program using MCUXpresso for the LPC804 microcontroller, utilizing internal clocks and system interrupts to communicate with a 7-segment display, servo motor, ultrasonic sensor, and push button. Communication between microcontroller and peripherals use protocols such as GPIO, PWM and internal timers such as System Tick, Multi-rate, and Self-Wake-up. Designed and created for an embedded systems course, received a final grade of A+.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>xoreus.github.io/search/</link>
+      <link>https://xoreus.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/search/</guid>
+      <guid>https://xoreus.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -101,10 +101,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Titanic Survival Predictor</title>
-      <link>xoreus.github.io/projects/creations/titanic/</link>
+      <link>https://xoreus.github.io/projects/creations/titanic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>xoreus.github.io/projects/creations/titanic/</guid>
+      <guid>https://xoreus.github.io/projects/creations/titanic/</guid>
       <description>Applying factors such as age, sex, and fare type of passengers who had survived the disaster to train a logistic regression model using the scikit-learn library. Using the trained model to predict if a passenger would survive based on the same factors; scored a 77.5% accuracy rating based on Kaggle&amp;rsquo;s scoring system.</description>
     </item>
     
