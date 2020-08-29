@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microcontroller on Edward Leung</title>
+    <link>xoreus.github.io/tags/microcontroller/</link>
+    <description>Recent content in Microcontroller on Edward Leung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="xoreus.github.io/tags/microcontroller/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motion Activated Soap Dispenser</title>
+      <link>xoreus.github.io/projects/creations/soap_dispenser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>xoreus.github.io/projects/creations/soap_dispenser/</guid>
+      <description>Developed a C program using MCUXpresso for the LPC804 microcontroller, utilizing internal clocks and system interrupts to communicate with a 7-segment display, servo motor, ultrasonic sensor, and push button. Communication between microcontroller and peripherals use protocols such as GPIO, PWM and internal timers such as System Tick, Multi-rate, and Self-Wake-up. Designed and created for an embedded systems course, received a final grade of A+.</description>
+    </item>
+    
+  </channel>
+</rss>

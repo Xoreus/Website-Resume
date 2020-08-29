@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistical Regression on Edward Leung</title>
+    <link>xoreus.github.io/tags/logistical-regression/</link>
+    <description>Recent content in Logistical Regression on Edward Leung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="xoreus.github.io/tags/logistical-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Titanic Survival Predictor</title>
+      <link>xoreus.github.io/projects/creations/titanic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>xoreus.github.io/projects/creations/titanic/</guid>
+      <description>Applying factors such as age, sex, and fare type of passengers who had survived the disaster to train a logistic regression model using the scikit-learn library. Using the trained model to predict if a passenger would survive based on the same factors; scored a 77.5% accuracy rating based on Kaggle&amp;rsquo;s scoring system.</description>
+    </item>
+    
+  </channel>
+</rss>
