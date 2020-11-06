@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiskit on Edward Leung</title>
+    <link>https://xoreus.github.io/tags/qiskit/</link>
+    <description>Recent content in Qiskit on Edward Leung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://xoreus.github.io/tags/qiskit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM Quantum Challenge</title>
+      <link>https://xoreus.github.io/projects/creations/quantum_challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xoreus.github.io/projects/creations/quantum_challenge/</guid>
+      <description>Manipulating Qubits into Bell and GHZ states and interpreting its results on a real noisy quantum computer. A simulation of the BB84 protocol, an application of a Quantum computer to encrypt and decrypt messages between two parties. Approximated a unitary using only U3 and CX gates with a focus on cost and accuracy resulting in a total cost of 310. Solution of unitary resulted in 375th place out of the total 1745 participants.</description>
+    </item>
+    
+  </channel>
+</rss>
