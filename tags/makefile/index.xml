@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MakeFile on Edward Leung</title>
+    <link>https://xoreus.github.io/tags/makefile/</link>
+    <description>Recent content in MakeFile on Edward Leung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://xoreus.github.io/tags/makefile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C Shell</title>
+      <link>https://xoreus.github.io/projects/creations/c_shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xoreus.github.io/projects/creations/c_shell/</guid>
+      <description>A C shell for Linux created as a project for an Operating Systems course. Shell support background executions using multithreading it also supports piping into .txt files. A list of commands can be found on the github page. A make file is included in the project to help complie and run the program.</description>
+    </item>
+    
+  </channel>
+</rss>

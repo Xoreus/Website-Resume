@@ -164,6 +164,10 @@
   </url>
   
   <url>
+    <loc>https://xoreus.github.io/projects/creations/c_shell/</loc>
+  </url>
+  
+  <url>
     <loc>https://xoreus.github.io/tags/ci/cd-pipelines/</loc>
   </url>
   
@@ -192,11 +196,19 @@
   </url>
   
   <url>
+    <loc>https://xoreus.github.io/tags/makefile/</loc>
+  </url>
+  
+  <url>
     <loc>https://xoreus.github.io/tags/microcontroller/</loc>
   </url>
   
   <url>
     <loc>https://xoreus.github.io/projects/creations/soap_dispenser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xoreus.github.io/tags/operating-systems/</loc>
   </url>
   
   <url>
