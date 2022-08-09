@@ -16,7 +16,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: ekleung{remove}@student.ubc.ca
+  email: 
   address:
     street: 
     city: 
