@@ -1,7 +1,6 @@
 ---
 title: Edward Leung
-role: MASc in Electrical and Computer Engineering at The University of British
-  Comlumbia
+role: MASc in Electrical and Computer Engineering
 bio: My research interests include quantum computing and silicon photonics.
 interests:
   - Quantum Computing
@@ -18,8 +17,8 @@ social:
     icon_pack: fab
     link: https://github.com/Xoreus
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://ece.ubc.ca/
 education:
   courses:
     - course: MASc in Electrical and Computer Engineering
