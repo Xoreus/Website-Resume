@@ -37,7 +37,7 @@ experience:
     company_logo: McGill
     location: Montreal, Quebec
     date_start: '2021-05-01'
-    date_end: '2022-02-30'
+    date_end: '2022-02-28'
     description:
     
   - title: Application Developer Intern
