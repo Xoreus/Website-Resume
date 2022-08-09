@@ -1,7 +1,7 @@
 ---
 title: Edward Leung
 role: MASc in Electrical and Computer Engineering
-avatar_filename: profile.png
+avatar_filename: avatar.png
 bio: My research interests include quantum computing and silicon photonics.
 interests:
   - Quantum Computing
