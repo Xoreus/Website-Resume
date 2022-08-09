@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ekleung{remove}@student.ubc.ca
+    link: mailto:ekleung(remove)@student.ubc.ca
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/edwardleun/
