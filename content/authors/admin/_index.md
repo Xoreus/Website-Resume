@@ -5,7 +5,7 @@ bio: My research interests include quantum computing and silicon photonics.
 interests:
   - Quantum Computing
   - Silicon Photonics
-  - Machine Learning.
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
