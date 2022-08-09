@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
+    description: 'Edward Leung's Academic Portfolio'
     twitter: ''
   analytics:
     google_analytics: 'G-32Y76K8E1T'
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 Edward Leung.'
+    notice: '© 2022 Edward Leung'
     license:
       enable: false
       allow_derivatives: false
