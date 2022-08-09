@@ -32,6 +32,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Edward Leung and I am currently a MASc student at the University of British Columbia. My main research interest is the application of silicon photonics for quantum computing and I am currently under the supervision of Professor Lukas Chrostowski. I am also a part of the NSERC CREATE Quantum Computing Program.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_AcademicResume1.pdf" "newtab" >}}Resume{{< /staticref >}}
