@@ -32,6 +32,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! My name is Edward Leung and I am currently a MASc student at the University of British Columbia. My main research interest is the application of silicon photonics for quantum computing, and I am currently under the supervision of Professor Lukas Chrostowski. I am also apart of the NSERC CREATE Quantum Computing Program with a focus on hardware.
+Hi! My name is Edward Leung and I am currently a MASc student at the University of British Columbia. My main research interest is in the application of silicon photonics in quantum computing, and I am currently under the supervision of Professor Lukas Chrostowski. I am also apart of the NSERC CREATE Quantum Computing Program with a focus on hardware. For more information about my qualifications and experiences please take a look at my resume!
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_AcademicResume1.pdf" "newtab" >}}Resume{{< /staticref >}}
