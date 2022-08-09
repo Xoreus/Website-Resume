@@ -22,7 +22,7 @@ organizations:
 education:
   courses:
     - course: MASc in Electrical and Computer Engineering
-      institution: The University of British Columbia
+      institution: University of British Columbia
       year: ""
     - course: BEng in Computer Engineering
       institution: York University
