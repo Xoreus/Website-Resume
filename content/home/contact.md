@@ -26,8 +26,8 @@ content:
     country_code: 
   directions: 
   office_hours:
-    - ''
-    - ''
+    #- ''
+    #- ''
 design:
   columns: '2'
 ---
