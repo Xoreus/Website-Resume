@@ -10,13 +10,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ekleung(remove)@student.ubc.ca
+    link: mailto:edwardleung(remove)@ece.ubc.ca
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/edwardleun/
   - icon: github
     icon_pack: fab
     link: https://github.com/Xoreus
+  - icon: scholar
+    icon_pack: fab
+    link: https://scholar.google.ca/citations?user=WmV8LZUAAAAJ&hl=en&oi=sra
 organizations:
   - name: University of British Columbia
     url: https://ece.ubc.ca/
