@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Research Assistant
+    company: University of British Columbia
+    company_url: ''
+    company_logo: UBC
+    location: Vancouver, British Columbia
+    date_start: '2022-09-01'
+    date_end: ''
+    description:
+
   - title: Undergraduate Research Assistant
     company: York University
     company_url: ''
