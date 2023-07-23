@@ -17,8 +17,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Xoreus
-  - icon: scholar
-    icon_pack: fab
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.ca/citations?user=WmV8LZUAAAAJ&hl=en&oi=sra
 organizations:
   - name: University of British Columbia
