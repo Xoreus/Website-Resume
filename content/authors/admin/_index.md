@@ -1,5 +1,7 @@
 ---
 title: Edward Leung
+first_name: Edward
+last_name: Leung
 role: MASc in Electrical and Computer Engineering
 avatar_filename: avatar.png
 bio: My research interests include quantum computing and silicon photonics.
@@ -73,7 +75,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-        
+
 highlight_name: true
 ---
 Hello! My name is Edward Leung and I am currently a MASc student at the University of British Columbia. My primary research interest is in the application of silicon photonics in quantum applications, and am currently under the supervision of Professor Lukas Chrostowski. I am also apart of the NSERC CREATE in Quantum Computing Program and Mitacs Accelerate. For more information about my qualifications and experiences please take a look at my resume!
