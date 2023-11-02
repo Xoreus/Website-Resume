@@ -47,7 +47,12 @@ experience:
     location: Montreal, Quebec
     date_start: '2021-05-01'
     date_end: '2022-02-28'
-    description:
+    description: |2-
+      * Part of the Summer Undergraduate Research in Engineering at McGill University, worked with the Photonic DataCom team under the supervision of Dr. Odile Liboiron-Ladouceur
+      * Worked collaboratively with Dr. Hassan Rahbardar Mojaver on the simulation and effects of noise in an Optical Neural Network (ONN) using the Python library Neuroptica on a Diamond Mesh trained on the MNIST dataset
+      * Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
+      * Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST dataset, showcasing the superior effectiveness of the Diamond mesh compared to other configurations. 
+
     
   - title: Application Developer Intern
     company: BMO Financial Group
