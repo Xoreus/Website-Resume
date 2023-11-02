@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -52,8 +52,6 @@ experience:
       * Worked collaboratively with Dr. Hassan Rahbardar Mojaver on the simulation and effects of noise in an Optical Neural Network (ONN) using the Python library Neuroptica on a Diamond Mesh trained on the MNIST dataset
       * Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
       * Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST dataset, showcasing the superior effectiveness of the Diamond mesh compared to other configurations. 
-
-    
   - title: Application Developer Intern
     company: BMO Financial Group
     company_url: ''
