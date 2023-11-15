@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<font size="6">
+<font size="1">
 Hello and welcome! I'm Edward Leung, a MASc student at the University of British Columbia and currently under the supervision of Professor Lukas Chrostowski. 
 
 My research focus currently revolves around the innovative application of silicon photonics in quantum technologies. I am a participant of both the NSERC CREATE in Quantum Computing Program and the Mitacs Accelerate initiative and am actively contributing to the project 'Integrated photonics control and readout system for quantum computing.' 
