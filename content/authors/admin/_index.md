@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<font size="4">
+<font size="4"><pre>
 Hello and welcome! I'm Edward Leung, a MASc student at the University of British Columbia and currently under the supervision of Professor Lukas Chrostowski. 
 
 
@@ -52,4 +52,4 @@ Thanks for visiting!
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_Resume_MASTER(Nov 2023).pdf" "newtab" >}}Resume{{< /staticref >}}
 
-</font>
+</font></pre>
