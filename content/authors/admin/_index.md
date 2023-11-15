@@ -7,6 +7,7 @@ avatar_filename: avatar.png
 bio: My research interests include quantum computing and silicon photonics.
 interests:
   - Quantum Computing
+  - Quantum Information
   - Silicon Photonics
   - Machine Learning
 social:
