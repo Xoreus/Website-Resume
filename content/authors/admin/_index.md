@@ -45,6 +45,6 @@ My research focus currently revolves around the innovative application of silico
 <br/><br/>
 I am also interested in the intersection of software and quantum information, and I am eagerly seeking a software-related internship related to the quantum computing space for the summer of 2024. I hope to use my previous foundation in software with my new found skills in hardware to apply myself to research and innovation in applications in the field. For an overview of my qualifications and experiences, please explore my resume, website, and any additional links under my picture.
 <br/><br/>
-Thanks for visiting!
+Thanks for visiting!  
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_Resume_MASTER(Nov 2023).pdf" "newtab" >}}Resume{{< /staticref >}}  
 </font></p>
