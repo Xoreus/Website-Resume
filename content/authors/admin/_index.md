@@ -37,10 +37,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-### Hello and welcome! I'm Edward Leung, a MASc student at the University of British Columbia and currently under the supervision of Professor Lukas Chrostowski. 
+##### Hello and welcome! I'm Edward Leung, a MASc student at the University of British Columbia and currently under the supervision of Professor Lukas Chrostowski. 
 
-### My research focus currently revolves around the innovative application of silicon photonics in quantum technologies. I am a participant of both the NSERC CREATE in Quantum Computing Program and the Mitacs Accelerate initiative and am actively contributing to the project 'Integrated photonics control and readout system for quantum computing.' 
+##### My research focus currently revolves around the innovative application of silicon photonics in quantum technologies. I am a participant of both the NSERC CREATE in Quantum Computing Program and the Mitacs Accelerate initiative and am actively contributing to the project 'Integrated photonics control and readout system for quantum computing.' 
 
-### I am also interested in the intersection of software and quantum information theory, and I am eagerly seeking a software-related internship in the quantum computing space for the summer of 2024. I aim to use my previous foundations in software with my new found skills in hardware to apply myself to research and innovation in applications in the field. For an overview of my qualifications and experiences, please explore my resume, website, and any additional links under my picture. Thank you for visiting!
+##### I am also interested in the intersection of software and quantum information theory, and I am eagerly seeking a software-related internship in the quantum computing space for the summer of 2024. I aim to use my previous foundations in software with my new found skills in hardware to apply myself to research and innovation in applications in the field. For an overview of my qualifications and experiences, please explore my resume, website, and any additional links under my picture. Thank you for visiting!
 
-### {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_Resume_MASTER(Nov 2023).pdf" "newtab" >}}Resume{{< /staticref >}}
+##### {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_Resume_MASTER(Nov 2023).pdf" "newtab" >}}Resume{{< /staticref >}}
