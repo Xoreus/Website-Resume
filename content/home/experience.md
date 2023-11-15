@@ -29,7 +29,10 @@ experience:
     location: Vancouver, British Columbia
     date_start: '2022-09-01'
     date_end: ''
-    description:
+    description: |2-
+      *	Developed and implemented Python scripts to automate electrical and optical experimental procedures 
+      *	Tested and constructed assemblies for silicon photonics devices using photonic wire bonds, enabling their utilization, and testing at cryogenic temperatures.
+
 
   - title: Undergraduate Research Assistant
     company: York University
@@ -48,10 +51,12 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-02-28'
     description: |2-
-      * Part of the Summer Undergraduate Research in Engineering at McGill University, worked with the Photonic DataCom team under the supervision of Dr. Odile Liboiron-Ladouceur
-      * Worked collaboratively with Dr. Hassan Rahbardar Mojaver on the simulation and effects of noise in an Optical Neural Network (ONN) using the Python library Neuroptica on a Diamond Mesh trained on the MNIST dataset
-      * Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
-      * Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST dataset, showcasing the superior effectiveness of the Diamond mesh compared to other configurations. 
+      *	Part of the Summer Undergraduate Research in Engineering at McGill University, worked with the Photonic DataCom team under the supervision of Dr. Odile Liboiron-Ladouceur
+      *	Worked collaboratively with Dr. Hassan Rahbardar Mojaver, focused on simulating, and analyzing the impact of noise in an Optical Neural Network (ONN) using the Python library Neuroptica. 
+      *	Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
+      *	Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST
+      dataset, highlighting the superior effectiveness of the Diamond mesh compared to other configurations. 
+
   - title: Application Developer Intern
     company: BMO Financial Group
     company_url: ''
@@ -60,10 +65,11 @@ experience:
     date_start: '2020-05-01'
     date_end: '2020-12-31'
     description: |2-
-        * Worked apart of the Direct Electronic Funds Transfer team, responsible for low value high volume payments of corporate clients
-        * Designed and implemented new features on a Java based desktop application used to manage users and permissions on a mainframe
-        * Worked collaboratively with QA to complete regression testing on upgrades to the electronic funds system
-        * Interacted with technology stakeholders to define, analyze, and deliver requirements that reflect the needs of both the business and end-customers
+      *	Worked apart of the Direct Electronic Funds Transfer team, responsible for low value high volume payments of corporate clients
+      *	Interacted with technology stakeholders to define, analyze, and deliver requirements that reflect the needs of both the business and end-customers
+      * Actively designed and implemented new features on a Java-based desktop application for managing users and permissions on a mainframe.
+      * Collaborated with quality assurance to execute thorough regression testing on upgrades to the electronic funds system.
+
   - title: Change and Problem Process Analyst Intern
     company: BMO Financial Group
     company_url: ''

@@ -29,14 +29,14 @@ education:
   courses:
     - course: MASc in Electrical and Computer Engineering
       institution: University of British Columbia
-      year: ""
+      year: "Dec 2025"
     - course: BEng in Computer Engineering
       institution: York University
-      year: 2022
+      year: "April 2022"
 email: ""
 superuser: true
 highlight_name: true
 ---
-Hello! My name is Edward Leung and I am currently a MASc student at the University of British Columbia. My primary research interest is in the application of silicon photonics in quantum applications, and am currently under the supervision of Professor Lukas Chrostowski. I am also apart of the NSERC CREATE in Quantum Computing Program and Mitacs Accelerate. For more information about my qualifications and experiences please take a look at my resume!
+Hello and welcome! I'm Edward Leung, a driven MASc student at the University of British Columbia, deeply immersed in the fascinating world of quantum computing. Currently under the supervision of Professor Lukas Chrostowski, my research focus currently revolves around the innovative application of silicon photonics in quantum technologies. I am a participant of both the NSERC CREATE in Quantum Computing Program and the Mitacs Accelerate initiative, I am actively contributing to the project titled 'Integrated photonics control and readout system for quantum computing.' I am also interested at the intersection of software and quantum advancements, and I am eagerly seeking a software-related internship in the quantum computing space for the summer of 2024. For an overview of my qualifications and experiences, please explore my resume, website, and any additional links under my picture. Thank you for visiting!
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_AcademicResume1.pdf" "newtab" >}}Resume{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EdwardLeung_Resume_MASTER(Nov 2023).pdf" "newtab" >}}Resume{{< /staticref >}}
