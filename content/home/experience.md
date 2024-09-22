@@ -30,9 +30,11 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-      *	Developed and implemented Python scripts to automate electrical and optical experimental procedures 
-      *	Tested and constructed assemblies for silicon photonics devices using photonic wire bonds, enabling their utilization, and testing at cryogenic temperatures.
-
+      •	Tested, assembled, and characterized silicon photonics assemblies with photonic and electrical wire bonds, enabling their operation and testing at cryogenic temperatures.
+      •	Utilized SPICE simulations to design and simulate matching circuits for microwave-to-optical conversion systems, optimizing signal transfer and response in cryogenic environments.
+      •	Designed a custom PCB and enclosure using KiCAD and CAD tools, tailored for experimental setups involving silicon photonics and microwave circuits.
+      •	Developed and implemented Python scripts and data analysis tools using Jupyter Notebook to automate complex experimental procedures, enhancing data collection efficiency and accuracy while streamlining the interpretation of experimental results.
+      •	Analyzed experimental data from cryogenic and photonic systems to identify trends, optimize procedures, and inform decision-making on subsequent experiments using Python packages such as NumPy and matplotlib.
 
   - title: Undergraduate Research Assistant
     company: York University
@@ -51,11 +53,9 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-02-28'
     description: |2-
-      *	Part of the Summer Undergraduate Research in Engineering at McGill University, worked with the Photonic DataCom team under the supervision of Dr. Odile Liboiron-Ladouceur
-      *	Worked collaboratively with Dr. Hassan Rahbardar Mojaver, focused on simulating, and analyzing the impact of noise in an Optical Neural Network (ONN) using the Python library Neuroptica. 
-      *	Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
-      *	Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST
-      dataset, highlighting the superior effectiveness of the Diamond mesh compared to other configurations. 
+      •	Collaborated with senior researchers to simulate and analyze the impact of noise in Optical Neural Networks (ONNs) using the Python library Neuroptica.
+      •	Innovatively applied machine learning techniques to enhance the accuracy of multi-layered models on the MNIST dataset, highlighting the superior effectiveness of the Diamond mesh compared to other configurations. 
+      •	Resulted in an end of term research poster titled “Mitigating Errors in Optical Neural Networks During Training”
 
   - title: Application Developer Intern
     company: BMO Financial Group
@@ -65,10 +65,10 @@ experience:
     date_start: '2020-05-01'
     date_end: '2020-12-31'
     description: |2-
-      *	Worked apart of the Direct Electronic Funds Transfer team, responsible for low value high volume payments of corporate clients
-      *	Interacted with technology stakeholders to define, analyze, and deliver requirements that reflect the needs of both the business and end-customers
-      * Actively designed and implemented new features on a Java-based desktop application for managing users and permissions on a mainframe.
-      * Collaborated with quality assurance to execute thorough regression testing on upgrades to the electronic funds system.
+      •	Worked apart of the Direct Electronic Funds Transfer team, responsible for low value high volume payments of corporate clients
+      •	Interacted with technology stakeholders to define, analyze, and deliver requirements that reflect the needs of both the business and end-customers
+      •	Designed and implemented new features for a Java-based desktop application managing users and permissions on a mainframe, while collaborating with quality assurance to conduct thorough regression testing on electronic funds system upgrades, ensuring software reliability and robustness.
+
 
   - title: Change and Problem Process Analyst Intern
     company: BMO Financial Group
