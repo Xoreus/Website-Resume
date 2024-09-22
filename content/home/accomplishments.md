@@ -35,7 +35,7 @@ item:
     url: ""
 widget_id: accomplishments
 headless: true
-weight: 90
+weight: 40
 title: Certificates
 subtitle: null
 design:
