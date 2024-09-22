@@ -1,5 +1,5 @@
 ---
-widget: publications
+widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url:
@@ -33,7 +33,7 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning
     url: ""
-widget_id: publications
+widget_id: accomplishments
 headless: true
 weight: 30
 title: Certificates
