@@ -48,7 +48,6 @@ I am currently working under the supervision of Professors Lukas Chrostowski and
 Beyond my research, I’m eager to apply my diverse programming skills in Python, Java, MATLAB, and C, as well as my experience in statistical analysis, data modeling, and software development, to tackle challenging projects across various sectors. I’m actively seeking full-time opportunities starting in May - June 2025, where I can apply my expertise to fields such as Quantum Computing, Photonics, Software Engineering, Quantitative Research, Financial Engineering, and Data Science.
 <br/><br/>
 For an overview of my qualifications and experience, please explore my resume, website, and additional links. Thank you for visiting!
-<br/><br/>
 </font></p>
 <font size="2"><p>
 Last Updated: September 2024
