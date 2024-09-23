@@ -19,9 +19,6 @@ main:
   - name: Projects
     url: '#projects'
     weight: 50
-  - name: Skills
-    url: '#skills'
-    weight: 60
 #  - name: Contact
 #    url: '#contact'
 #    weight: 30
