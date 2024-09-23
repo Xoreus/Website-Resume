@@ -4,11 +4,11 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ""
-    date_start: 2022-05-01
+    date_start: 2024-04
     description: ""
-    organization: edx
-    organization_url: https://www.edx.org/
-    title: Silicon Photonics Design, Fabrication and Data Analysis
+    organization: Quantum BC Research Day, Vancouver, BC
+    organization_url: 
+    title: Edward Leung, Daniel Julien-Neitzert, Nusair Islam, Sudip Shekhar, Joseph Salfi, Jeff Young, and Lukas Chrostowski. "Cryogenic Response of Integrated Germanium Photodiodes"
     url: 
   - certificate_url: https://www.credly.com/badges/3d365399-6b5c-4985-b111-8fcaeff984eb?source=linked_in_profile
     date_end: ""

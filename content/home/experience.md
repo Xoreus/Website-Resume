@@ -74,7 +74,7 @@ experience:
       •	Worked apart of the Direct Electronic Funds Transfer team, responsible for low value high volume payments of corporate clients.
 
       •	Interacted with technology stakeholders to define, analyze, and deliver requirements that reflect the needs of both the business and end-customers.
-      
+
       •	Designed and implemented new features for a Java-based desktop application managing users and permissions on a mainframe, while collaborating with quality assurance to conduct thorough regression testing on electronic funds system upgrades, ensuring software reliability and robustness.
 
   - title: Change and Problem Process Analyst Intern
@@ -86,8 +86,11 @@ experience:
     date_end: '2019-08-31'
     description: |2-
         * Ensured daily activities are applied and completed as required by the BMO ITIL Process with the use of ServiceNow.
+
         * Preformed Change and Problem governance on the respective ITIL Processes to ensure performance, compliance, value and quality.
+
         * Identified and detected (Incidents, Configuration Items affected, Changes, Problems and Conflicts) to reduce the impact to customer service.
+        
         * Participated in team communication ensuring activities are implemented according to ITIL Process Standards.
 design:
   columns: '2'
