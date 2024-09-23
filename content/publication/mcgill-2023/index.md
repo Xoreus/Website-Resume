@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Opt. Express 31, 23851-23866 (2023)"
+publication: "Opt. Express 31, 23851-23866"
 # publication_short: ""
 
 abstract: We demonstrate a novel mesh of Mach-Zehnder interferometers (MZIs) for programmable optical processors. The proposed mesh, referred to as Bokun mesh, is an architecture that merges the attributes of the prior topologies Diamond and Clements. Similar to Diamond, Bokun provides diagonal paths passing through every individual MZI enabling direct phase monitoring. However, unlike Diamond and similar to Clements, Bokun maintains a minimum optical depth leading to better scalability. Providing the monitoring option, Bokun's programming is faster improving the total energy efficiency of the processor. The performance of Bokun mesh enabled by an optimal optical depth is also more resilient to the loss and fabrication imperfections compared to architectures with longer depth such as Reck and Diamond. Employing an efficient programming scheme, the proposed architecture improves energy efficiency by 83% maintaining the same computation accuracy for weight matrix changes at 2 kHz.
@@ -33,7 +33,10 @@ abstract: We demonstrate a novel mesh of Mach-Zehnder interferometers (MZIs) for
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Photonics
+- Machine Learning
+- Python
+- Simulation
 featured: false
 
 # links:
