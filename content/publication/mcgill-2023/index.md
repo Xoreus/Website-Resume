@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-07-05T00:00:00Z"
-doi: "10.1364/oe.489493"
+# doi: "10.1364/oe.489493"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -41,7 +41,7 @@ featured: false
 
 # links:
 # - name: ""
-# url: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-23851&id=532505"
+# url: ''
 url_pdf: 'https://arxiv.org/abs/2303.04151'
 url_code: ''
 url_dataset: ''
