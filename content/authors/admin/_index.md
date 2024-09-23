@@ -4,12 +4,14 @@ first_name: Edward
 last_name: Leung
 role: MASc in Electrical and Computer Engineering
 avatar_filename: avatar.png
-bio: My research interests include quantum computing and silicon photonics.
+bio: Motivated master’s student in Electrical and Computer Engineering with over two years of hands-on experience in scripting, data analysis, and research. Proficient in Python, Java, and MATLAB, with a solid foundation in statistical analysis, modeling, and algorithms. Versatile in applying technical expertise to a variety of projects and sectors, ensuring impactful outcomes and informed decision-making.
 interests:
   - Quantum Computing
-  - Quantum Information
   - Silicon Photonics
   - Machine Learning
+  - Software Engineering
+  - Data Science and Analysis
+  - Financial Engineering
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,7 +32,7 @@ education:
   courses:
     - course: MASc in Electrical and Computer Engineering
       institution: University of British Columbia
-      year: "Expected: December 2025"
+      year: "Expected: April 2025"
     - course: BEng in Computer Engineering
       institution: York University
       year: "April 2022"
@@ -39,11 +41,13 @@ superuser: true
 highlight_name: true
 ---
 <font size="4"><p>
-Hello and welcome! I'm Edward Leung, a MASc student at the University of British Columbia currently under the supervision of Professor Lukas Chrostowski.
+Hello and welcome! I'm Edward Leung, a Master’s student at the University of British Columbia with a passion for solving complex, real-world problems through innovative technologies and data-driven approaches.
 <br/><br/>
-My research focus currently revolves around the innovative application of silicon photonics in quantum technologies. I am a participant of both the NSERC CREATE in Quantum Computing and the Mitacs Accelerate Program. As a part of my masters I am actively contributing to the Mitacs Accelerate project 'Integrated photonics control and readout system for quantum computing.
+I am currently working under the supervision of Professors Lukas Chrostowski and Joe Salfi, focusing on the application of silicon photonics in quantum technologies. I am a participant in both the NSERC CREATE in Quantum Computing and the Mitacs Accelerate Program and am currently conducting research on the development of integrated photonics control systems for quantum computing, using Silicon-on-Insulator Germanium Photodiodes for Optical-to-Microwave conversion to control qubits. This research addresses the challenge of managing increased heat load in quantum systems with large numbers of qubits.
 <br/><br/>
-I am also interested in the intersection of software and quantum information, and I am eagerly seeking a software-related internship related to the quantum computing space for the summer of 2024. I hope to use my previous foundation in software with my new found skills in hardware to apply myself to research and innovation in applications in the field. For an overview of my qualifications and experiences, please explore my resume, website, and any additional links under my picture.
+Beyond my research, I’m eager to apply my diverse programming skills in Python, Java, MATLAB, and C, as well as my experience in statistical analysis, data modeling, and software development, to tackle challenging projects across various sectors. I’m actively seeking full-time opportunities starting in May - June 2025, where I can apply my expertise to fields such as Quantum Computing, Photonics, Software Engineering, Quantitative Research, Financial Engineering, and Data Science.
 <br/><br/>
-Thanks for visiting!  
+For an overview of my qualifications and experience, please explore my resume, website, and additional links. Thank you for visiting!
+<br/><br/>
+Last Updated: September 2024
 </font></p>
