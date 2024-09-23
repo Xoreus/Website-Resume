@@ -46,5 +46,5 @@ weight: 60
 title: Skills
 subtitle: null
 design:
-  columns: "2"
+  columns: "4"
 ---
