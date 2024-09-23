@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:edwardleung(remove)@ece.ubc.ca
+    link: mailto:edwardleung.ece(remove)@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/edwardleun/
