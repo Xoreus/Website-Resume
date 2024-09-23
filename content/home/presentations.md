@@ -29,7 +29,7 @@ item:
   - certificate_url: 
     date_start: 2021-08-01
     description: ""
-    organization: Summer Undergraduate Research in Engineering 2021 Poster Fair, Montreal, QC
+    organization: Summer Undergraduate Research in Engineering Poster Fair, Montreal, QC
     organization_url: ""
     title: Mitigating Errors in Optical Neural Networks During Training
     url: ""
