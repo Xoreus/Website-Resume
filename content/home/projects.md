@@ -24,12 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Astro Miner
     company: ''
-    company_url: ''
+    company_url: 'https://moltensnowman.itch.io/astro-miner'
     company_logo: ''
     location: ''
     date_start: '2024-02-01'
-    date_end: '2024-02-01'
+    date_end: '2024-03-01'
     description: |2-
+      •	Developed a 2D game using Godot Engine for a monthly Game Jam, implementing gameplay mechanics, physics, and UI elements within a tight deadline.
+      •	Showcased creativity and technical ability by delivering a polished, fully functional game, gaining experience in game development, design, project management, and engine scripting.
       •	Effectively balanced time management and worked under pressure to deliver a polished 2D game within a tight deadline for a monthly Game Jam using Godot Engine, demonstrating strong programming skills, efficient use of version control (Git), and the ability to manage both front-end design and back-end functionality. 
 
   - title: Quantum Machine Learning Workshop
@@ -38,7 +40,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2024-01-01'
-    date_end: ''
+    date_end: '2024-01-01'
     description: |2-
       •	Explored the intersection of quantum computing and machine learning by studying key quantum algorithms such as quantum neural networks (QNNs) and variational quantum classifiers (VQCs), while gaining practical experience with Qiskit and Python to implement quantum machine learning models. 
     
@@ -48,7 +50,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2023-05-01'
-    date_end: ''
+    date_end: '2023-05-01'
     description: |2-
       •	Studied photonic qubits, entanglement, and photon-based quantum gates used in optical quantum computing.
       •	Learned advanced simulation techniques for quantum photonics systems and discussed fabrication challenges.
@@ -60,7 +62,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2023-02-01'
-    date_end: ''
+    date_end: '2023-02-01'
     description: |2-
       •	Gained hands-on experience in the design, simulation, and testing of passive silicon photonic devices.
       •	Learned about key fabrication processes involved in silicon photonics, including lithography and etching techniques.
@@ -72,7 +74,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2020-06-01'
-    date_end: ''
+    date_end: '2020-06-01'
     description: |2-
       •	A two-week summer school designed to cover the basics of Quantum Computing with a focus on Superconducting Devices and Quantum Chemistry Applications
       •	Daily lab sessions included simulations of Grover’s Algorithm, Quantum Teleportation, Quantum Fourier Transform, Shor’s Algorithm, Error Mitigation using Repetition Codes, as well as a simulation of a LiH molecule
@@ -83,7 +85,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2020-05-01'
     description: |2-
       •	Using a pre-trained convolution neural network model, ResNet-34, to create a classifier used to determine between Coca-Cola and Pepsi related images taken from Google Images
       •	Manually cleaning and transforming images to create a deeper and richer dataset to improve classification 
@@ -95,7 +97,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2019-12-01'
-    date_end: ''
+    date_end: '2019-12-01'
     description: |2-
       •	Applying factors such as age, sex, and fare type of passengers who had survived the disaster to train a logistic regression model using the scikit-learn library
       •	Using the trained model to predict if a passenger would survive based on the same factors; scored a 77.5% accuracy rating based on Kaggle's scoring system
