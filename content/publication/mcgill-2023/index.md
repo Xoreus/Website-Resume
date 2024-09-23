@@ -38,8 +38,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-23851&id=532505"
-url_pdf: 'https://arxiv.org/abs/2303.04151'
+# url: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-23851&id=532505"
+url_pdf: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-23851&id=532505'
 url_code: ''
 url_dataset: ''
 url_poster: ''
