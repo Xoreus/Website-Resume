@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: ''
+    date_start: '2024-02-01'
     date_end: '2024-02-01'
     description: |2-
       •	Effectively balanced time management and worked under pressure to deliver a polished 2D game within a tight deadline for a monthly Game Jam using Godot Engine, demonstrating strong programming skills, efficient use of version control (Git), and the ability to manage both front-end design and back-end functionality. 
