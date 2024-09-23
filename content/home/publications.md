@@ -1,43 +1,41 @@
 ---
-widget: accomplishments
-date_format: Jan 2006
-item:
-  - certificate_url:
-    date_end: ""
-    date_start: 2022-05-01
-    description: ""
-    organization: edx
-    organization_url: https://www.edx.org/
-    title: Silicon Photonics Design, Fabrication and Data Analysis
-    url: 
-  - certificate_url: https://www.credly.com/badges/3d365399-6b5c-4985-b111-8fcaeff984eb?source=linked_in_profile
-    date_end: ""
-    date_start: 2021-06-01
-    description: ""
-    organization: IBM
-    organization_url: ""
-    title: IBM Quantum Challenge 2021 Achievement - Advanced
-    url: 
-  - certificate_url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_end: ""
-    date_start: 2020-05-01
-    description: 
-    organization: IBM
-    organization_url: https://www.credly.com/badges/c61346d5-72ab-4fe5-84d6-8270511e5df0/linked_in_profile
-    title: IBM Quantum Challenge
-    url: 
-  - certificate_url: 
-    date_start: 2019-06-01
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Machine Learning
-    url: ""
-widget_id: accomplishments
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 30
-title: Certificates
-subtitle: null
+
+title: Publications
+subtitle: ''
+
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  columns: "2"
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}

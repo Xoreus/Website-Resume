@@ -36,7 +36,7 @@ item:
 widget_id: accomplishments
 headless: true
 weight: 50
-title: Certificates
+title: Projects
 subtitle: null
 design:
   columns: "2"
