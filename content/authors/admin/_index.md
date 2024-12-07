@@ -43,12 +43,10 @@ highlight_name: true
 <font size="4"><p>
 Hello and welcome! I'm Edward Leung, a Master’s student at the University of British Columbia with a passion for solving complex, real-world problems through innovative technologies and data-driven approaches.
 <br/><br/>
-I am currently working under the supervision of Professors Lukas Chrostowski and Joe Salfi, focusing on the application of silicon photonics in quantum technologies. I am a participant in both the NSERC CREATE in Quantum Computing and the Mitacs Accelerate Program and am currently conducting research on the development of integrated photonics control systems for quantum computing, using Silicon-on-Insulator Germanium Photodiodes for Optical-to-Microwave conversion to control qubits. This research addresses the challenge of managing increased heat load in quantum systems with large numbers of qubits.
-<br/><br/>
-Beyond my research, I’m eager to apply my diverse programming skills in Python, Java, MATLAB, and C, as well as my experience in statistical analysis, data modeling, and software development, to tackle challenging projects across various sectors. I’m actively seeking full-time opportunities starting in May - June 2025, where I can apply my expertise to fields such as Quantum Computing, Photonics, Software Engineering, Quantitative Research, Financial Engineering, and Data Science.
+I am currently working under the supervision of Professors Lukas Chrostowski and Joe Salfi, focusing on the application of silicon photonics in quantum technologies. I am a participant in both the NSERC CREATE in Quantum Computing and the Mitacs Accelerate Program and am currently conducting research on the development of integrated photonics control and readout systems for quantum computing, using Silicon-on-Insulator Germanium Photodiodes for Optical-to-Microwave conversion to control qubits. This research hopes to address the challenge of managing increased heat load in quantum systems with large numbers of qubits to solve real-world problems.
 <br/><br/>
 For an overview of my qualifications and experience, please explore my resume, website, and additional links. Thank you for visiting!
 </font></p>
 <font size="2"><p>
-Last Updated: September 2024
+Last Updated: December 2024
 </font></p>
